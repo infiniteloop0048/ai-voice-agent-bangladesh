@@ -1,0 +1,9 @@
+{
+  "name": "ai-voice-agent-bangladesh-examples",
+  "private": true,
+  "type": "module",
+  "main": "test.mjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test ." },
+  "dependencies": { "express": "^4.21.2" }
+}

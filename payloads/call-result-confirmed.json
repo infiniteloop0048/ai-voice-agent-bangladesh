@@ -1,0 +1,18 @@
+{
+  "event": "call.result",
+  "order_id": "10432",
+  "status": "confirmed",
+  "reason": null,
+  "summary": "Order and address confirmed on the call.",
+  "address": {
+    "original": "House 12, Road 4, Dhanmondi, Dhaka",
+    "thana": "ধানমন্ডি",
+    "zilla": "ঢাকা",
+    "full": "House 12, Road 4, Dhanmondi, Dhaka, ধানমন্ডি, ঢাকা"
+  },
+  "attempt": 1,
+  "duration_seconds": 61,
+  "completed_at": "2026-08-21T09:56:57+00:00",
+  "balance_seconds": 5279,
+  "available_seconds": 5279
+}

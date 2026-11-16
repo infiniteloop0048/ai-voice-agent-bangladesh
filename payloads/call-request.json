@@ -1,0 +1,15 @@
+{
+  "external_id": "10432",
+  "phone": "01798XXXXXX",
+  "context": {
+    "customer_name": "Rahim Uddin",
+    "order_id": "10432",
+    "total": 1450,
+    "payment_method": "cod",
+    "address": "House 12, Road 4, Dhanmondi, Dhaka",
+    "items": [
+      { "name": "Cotton Shirt", "qty": 2, "price": 650 },
+      { "name": "Delivery", "qty": 1, "price": 150 }
+    ]
+  }
+}

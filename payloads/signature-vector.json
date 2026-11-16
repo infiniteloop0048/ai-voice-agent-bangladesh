@@ -1,0 +1,6 @@
+{
+  "secret": "change-me",
+  "timestamp": "1794844800",
+  "body": "{\n  \"event\": \"balance.low\",\n  \"balance_seconds\": 540,\n  \"balance_minutes\": \"9m 0s\",\n  \"threshold_seconds\": 600,\n  \"at\": \"2026-08-22T10:15:00+00:00\"\n}\n",
+  "signature": "73eb7a692135a1da1285511fd0d483155b6fcb4f629a244a54d99f7d7bfb421e"
+}

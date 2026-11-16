@@ -1,0 +1,8 @@
+.env
+node_modules/
+__pycache__/
+vendor/
+*.pyc
+webhook-receipts.json
+voiceover.mp3
+voiceover.wav

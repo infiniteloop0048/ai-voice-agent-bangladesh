@@ -1,0 +1,7 @@
+{
+  "event": "balance.low",
+  "balance_seconds": 540,
+  "balance_minutes": "9m 0s",
+  "threshold_seconds": 600,
+  "at": "2026-08-22T10:15:00+00:00"
+}

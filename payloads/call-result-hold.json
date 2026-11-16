@@ -1,0 +1,15 @@
+{
+  "event": "call.result",
+  "order_id": "10432",
+  "status": "hold",
+  "reason": "cancelled",
+  "summary": "The customer said they no longer want the order.",
+  "address": { "original": "House 12, Road 4, Dhanmondi, Dhaka",
+               "thana": null, "zilla": null,
+               "full": "House 12, Road 4, Dhanmondi, Dhaka" },
+  "attempt": 1,
+  "duration_seconds": 38,
+  "completed_at": "2026-08-21T10:02:11+00:00",
+  "balance_seconds": 5241,
+  "available_seconds": 5241
+}
